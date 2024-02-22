@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Dalila Fatharani** <br>
+Saya seorang mahasiswi semester 6 di Universitas Gunadarma.<br>
+Saat ini saya sedang mengikuti Studi Independen di Dicoding.<br>
+Mari berkenalan lebih lanjut di akun [Linkedin](https://www.linkedin.com/in/dalilafatharani/)
+
 <!--
 **dalilafath/dalilafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
